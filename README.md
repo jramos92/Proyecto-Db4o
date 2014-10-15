@@ -9,8 +9,8 @@ Funciones del servidor:
 * Autenticacion
 
 Funciones del cliente:
-*Insertar datos 
-*Modificar datos
-*Eliminar datos
-*Buscar datos 
-*Conectar y desconecar del servidor
+* Insertar datos 
+* Modificar datos
+* Eliminar datos
+* Buscar datos 
+* Conectar y desconecar del servidor
